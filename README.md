@@ -9,7 +9,7 @@ REST API WEBSITE
 | Tiktok Video DL|✅|
 | YT MP3|✅|
 | YT MP4|✅|
-| Yt search|✅|
+| YT search|✅|
 | Github Stalk|✅|
 | Repository Stalk|✅|
 | Shorten Link|✅|
