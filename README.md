@@ -7,6 +7,7 @@ REST API WEBSITE
 | Instagram Stalk|✅|
 | Facebook Video DL|✅|
 | Tiktok Video DL|✅|
+| Mediafire DL|✅|
 | YT MP3|✅|
 | YT MP4|✅|
 | YT search|✅|
